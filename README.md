@@ -4,6 +4,10 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 Lazy-load JS upon interaction, instead of hydrating on page load. It looks a lot like React.
 
+```sh
+npm create qwik@latest
+```
+
 https://www.youtube.com/watch?v=x2eF3YLiNhY
 
 https://github.com/BuilderIO/qwik
