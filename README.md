@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=x2eF3YLiNhY
 https://github.com/BuilderIO/qwik
 
 https://qwik.builder.io
+
+## further research:
+
+what about security?
